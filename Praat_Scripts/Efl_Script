@@ -1,0 +1,32 @@
+Create Sound as pure tone: "E_fl1", 1, 0, 0.25, 44100, 38.89, 0.2, 0.01, 0.01
+Create Sound as pure tone: "E_fl2", 1, 0, 0.25, 44100, 77.78, 0.2, 0.01, 0.01
+Create Sound as pure tone: "E_fl3", 1, 0, 0.25, 44100, 155.6, 0.2, 0.01, 0.01
+Create Sound as pure tone: "E_fl4", 1, 0, 0.25, 44100, 311.1, 0.2, 0.01, 0.01
+Create Sound as pure tone: "E_fl5", 1, 0, 0.25, 44100, 622.3, 0.2, 0.01, 0.01
+Create Sound as pure tone: "E_fl6", 1, 0, 0.25, 44100, 1245, 0.2, 0.01, 0.01
+Create Sound as pure tone: "E_fl7", 1, 0, 0.25, 44100, 2489, 0.2, 0.01, 0.01
+Create Sound as pure tone: "E_fl8", 1, 0, 0.25, 44100, 4978, 0.2, 0.01, 0.01
+
+selectObject: "Sound E_fl1"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl1.wav"
+
+selectObject: "Sound E_fl2"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl2.wav"
+
+selectObject: "Sound E_fl3"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl3.wav"
+
+selectObject: "Sound E_fl4"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl4.wav"
+
+selectObject: "Sound E_fl5"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl5.wav"
+
+selectObject: "Sound E_fl6"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl6.wav"
+
+selectObject: "Sound E_fl7"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl7.wav"
+
+selectObject: "Sound E_fl8"
+Save as WAV file: "/Users/samanthaflores/Desktop/Tones/E_fl/E_fl8.wav"
