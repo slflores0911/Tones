@@ -5,7 +5,7 @@ import os
 from datetime import datetime
 
 # Directory containing the audio files
-audio_dir = "/Users/samanthaflores/Tones/A"
+audio_dir = "/Users/samanthaflores/Tones/Individual_Tones/A"
 audio_files = ["A1.wav", "A2.wav", "A3.wav", "A4.wav", "A5.wav", "A6.wav", "A7.wav", "A8.wav"]
 
 # Shuffle the list of audio files
